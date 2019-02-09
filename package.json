@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/afrontend/readCount.git"
   },
-  "homepage": "https://readCount.herokuapp.com/",
+  "homepage": "https://read-count.herokuapp.com/",
   "keywords": [],
   "author": "<frontend.wordpress@gmail.com>",
   "license": "MIT",
