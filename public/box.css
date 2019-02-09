@@ -1,0 +1,19 @@
+/*public/css/box.css*/
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+.readCount {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2rem;
+  height: 15rem;
+  line-height: 15rem;
+  margin: 10px;
+  text-align: center;
+  transition: 0.3s;
+  width: 15rem;
+}
+
+.readCount:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
