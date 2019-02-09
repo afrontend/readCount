@@ -1,6 +1,21 @@
 {
   "name": "readcount",
-  "version": "0.0.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "version": "0.0.1",
+  "description": "웹 텍스트 데이터를 HTML로 보이는 예제",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrontend/readCount.git"
+  },
+  "homepage": "https://readCount.herokuapp.com/",
+  "keywords": [],
+  "author": "<frontend.wordpress@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrontend/readCount/issues"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
