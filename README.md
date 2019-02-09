@@ -1,4 +1,4 @@
-웹 텍스트 데이터를 HTML로 보이는 예제, [블로그](https://agvim.wordpress.com/2019/01/08/tetris-game-with-javascript/)에서 간단한 설명을 볼 수 있다.
+웹 텍스트 데이터를 HTML로 보이는 예제, [블로그](https://agvim.com/2019/02/09/web-text-to-html/)에서 간단한 설명을 볼 수 있다.
 
 ## Install
 
