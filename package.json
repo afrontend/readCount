@@ -11,7 +11,7 @@
   },
   "homepage": "https://read-count.herokuapp.com/",
   "keywords": [],
-  "author": "<frontend.wordpress@gmail.com>",
+  "author": "<autoscripts@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afrontend/readCount/issues"
@@ -25,8 +25,8 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
-    "handlebars": "^4.1.2",
-    "hbs": "^4.0.4",
+    "handlebars": "^4.7.3",
+    "hbs": "^4.1.0",
     "http-errors": "~1.6.2",
     "lodash": "^4.17.15",
     "morgan": "~1.9.0",
