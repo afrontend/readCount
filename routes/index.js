@@ -4,7 +4,7 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
   var request = require('request');
-  request('https://agvim.wordpress.com/',
+  request('https://afrontend.github.io/',
     function (error, response, body) {
       var cheerio = require('cheerio');
       var $ = cheerio.load(body);
